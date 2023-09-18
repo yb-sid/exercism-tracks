@@ -39,7 +39,7 @@ You can explore each language's directory to find my solutions and README files 
     The sub-project uses sbt as build too.
     Use Intellij-Idea as IDE to run scala test files as VS code support is not great.
   - **src/main/scala/com.ybsid.exercism**: Package path to all solutions
-    - `exercise_name.java`: My solution code.
+    - `exercise_name.scala`: My solution code.
   - **src/test/scala/com.ybsid.exercism**: package path for tests for each exercise
 
 ## Future commits will include Go and Javascript/TypeScript as well
