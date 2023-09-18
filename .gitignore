@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+env/
+.virtualenv/
+exvenv/
+*.pyc
+__pycache__/
+
+# Dependency management
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.pyc
+*.pyo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Sensitive information
+config.ini
+secrets.json
+.env
+
+
+.metals
+.bsp
